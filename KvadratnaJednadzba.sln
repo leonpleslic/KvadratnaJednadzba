@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI.csproj", "{BD68AF9C-6ABC-47A7-AA46-D01181A1DF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "..\QuadraticEquation\QuadraticEquation.csproj", "{199DFAAD-FA14-47CA-8465-9F25560457B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD68AF9C-6ABC-47A7-AA46-D01181A1DF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD68AF9C-6ABC-47A7-AA46-D01181A1DF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD68AF9C-6ABC-47A7-AA46-D01181A1DF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD68AF9C-6ABC-47A7-AA46-D01181A1DF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199DFAAD-FA14-47CA-8465-9F25560457B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199DFAAD-FA14-47CA-8465-9F25560457B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199DFAAD-FA14-47CA-8465-9F25560457B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199DFAAD-FA14-47CA-8465-9F25560457B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4393AF-E6BC-4BD6-BF02-D35BD59E7032}
+	EndGlobalSection
+EndGlobal
