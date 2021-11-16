@@ -15,8 +15,13 @@ namespace KvadratnaJednadzba
         public Form1()
         {
             InitializeComponent();
+            functionPanel.Function = displayPanel.qe.Y;
+
         }
 
-
+        private void displayPanel_CoefficientChanged(object sender, EventArgs e)
+        {
+            displayPanel.Invalidate();
+        }
     }
 }
